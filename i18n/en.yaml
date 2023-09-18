@@ -71,3 +71,27 @@ footer:
 
     designedBy:
         other: Theme {{ .Theme }} designed by {{ .DesignedBy }}
+
+    # This blog has been running stably for 1 day, 2 hours and 3 minutes
+    runtime1:
+        other: This blog has been running stably for
+    runtime2:
+        other: day,
+    runtime3:
+        other: hours and
+    runtime4:
+        other: minutes
+
+    # Published x articles in total, totaling y words
+    count1:
+        other: Published
+    count2:
+        other: articles in total · totaling
+    count3:
+        other: words
+
+    # The total number of visits to this site is X times
+    pv1:
+        other: The total number of visits to this site is
+    pv2:
+        other: times

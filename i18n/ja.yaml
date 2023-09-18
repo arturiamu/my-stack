@@ -58,3 +58,27 @@ footer:
 
     designedBy:
         other: テーマ {{ .Theme }} は {{ .DesignedBy }} によって設計されています。
+
+    # このブログは1日2時間3分安定稼働中です
+    runtime1:
+        other: このブログは
+    runtime2:
+        other: 日
+    runtime3:
+        other: 時間
+    runtime4:
+        other: 分安定稼働中です
+
+    # 合計 x 記事、合計 y ワードを公開しました
+    count1:
+        other: 合計
+    count2:
+        other: 記事 · 合計
+    count3:
+        other: ワードを公開しました
+
+    # このサイトへの合計訪問回数は X 回です
+    pv1:
+        other: このサイトへの合計訪問回数は
+    pv2:
+        other: 回です
