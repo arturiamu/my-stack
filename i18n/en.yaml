@@ -32,6 +32,8 @@ article:
     readingTime:
         one: "{{ .Count }} minute read"
         other: "{{ .Count }} minute read"
+    lcs:
+        other: 'Reprinting requires retaining the original link, and commercial use is prohibited without explicit permission. '
 
 notFound:
     title:

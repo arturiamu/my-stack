@@ -197,3 +197,17 @@
         }
     }
 }
+
+
+.widget--toc {
+    #TableOfContents {
+        li {
+            margin: 2px 0 2px 4px !important;
+            padding: 2px !important;
+            & > ul {
+                margin-top: 2px !important;
+                margin-bottom: -2px !important;
+            }
+        }
+    }
+}

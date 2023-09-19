@@ -36,3 +36,11 @@ body {
     background-color: transparent;
 }
 /**/
+
+* {
+    scrollbar-width: thin !important;
+}
+::-webkit-scrollbar {
+    width: 8px !important;
+    height: 8px !important;
+}
